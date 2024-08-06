@@ -33,5 +33,5 @@ The data was visualized through an interactive Power BI dashboard, which include
 The analysis revealed that the penetration rate of EVs is steadily increasing year over year, indicating growing adoption in the Indian market. This trend suggests a favorable market environment for AtliQ Motors to expand its operations. It is recommended that AtliQ focus on states with higher penetration rates and tailor their strategies to regions with emerging growth potential.
 # Conclusion
 This analysis provides a comprehensive view of the current EV market in India, offering actionable insights for AtliQ Motors as they plan their expansion. The project's findings will help the company make informed decisions to increase their market share in this rapidly growing industry
-#License
-@2024 [Harshali Jadhav]
+# License
+©2024 [@Harshali Jadhav].All rights reserved.
