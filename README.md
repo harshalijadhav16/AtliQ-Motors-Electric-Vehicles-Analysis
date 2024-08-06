@@ -6,8 +6,21 @@ AtliQ Motors has established a strong presence in the North American EV market, 
 # Objective
 The objective of this project is to analyze the sales data of electric vehicles in India across different states and by various manufacturers. The analysis aims to provide insights into market trends, penetration rates, and growth potential, ultimately helping AtliQ Motors make data-driven decisions for their market expansion.
 # Key Metrics and Calculations
-The analysis involved creating several key metrics and calculated columns:
+The analysis involved creating several key metrics and calculated columns:<br>
 <b>Total EV Sold</b>: The total number of electric vehicles sold.<br>
-Total Vehicles Sold: The total number of all vehicles sold (both electric and non-electric).
-Penetration Rate (%): The percentage of electric vehicles out of the total vehicles sold.
-CAGR (Compound Annual Growth Rate): Measures the mean annual growth rate of EV sales over a specified period.
+<b>Total Vehicles Sold</b>: The total number of all vehicles sold (both electric and non-electric).<br>
+<b>Penetration Rate (%)</b>: The percentage of electric vehicles out of the total vehicles sold.<br>
+<b>CAGR (Compound Annual Growth Rate)</b>: Measures the mean annual growth rate of EV sales over a specified period.<br>
+## Note on Penetration Rate
+In this project, the penetration rate starts from 0 onwards, meaning there are no negative rates. This reflects the positive adoption level of EVs in different regions.
+# Dashboard Visualization
+The data was visualized through an interactive Power BI dashboard, which includes the following pages:<br>
+<b>Home Page</b>: Overview of the dashboard with navigation options.<br>
+<b>Sales Overview</b>: Visualizations for total EV sales, total vehicles sold, EV penetration rate, and sales trends over time.<br>
+<b>Geographic Analysis</b>: A map visual displaying EV sales and penetration rates by state.<br>
+<b>Manufacturers Analysis</b>: Analysis of EV sales by different manufacturers and their market shares.<br>
+<b>Trend and Growth Analysis</b>: Year-over-year growth trends and CAGR for EV sales.<br>
+# Insights & Recommendations
+The analysis revealed that the penetration rate of EVs is steadily increasing year over year, indicating growing adoption in the Indian market. This trend suggests a favorable market environment for AtliQ Motors to expand its operations. It is recommended that AtliQ focus on states with higher penetration rates and tailor their strategies to regions with emerging growth potential.
+# Conclusion
+This analysis provides a comprehensive view of the current EV market in India, offering actionable insights for AtliQ Motors as they plan their expansion. The project's findings will help the company make informed decisions to increase their market share in this rapidly growing industry
